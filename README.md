@@ -42,7 +42,7 @@ python main.py --all_urls_path=file.txt
 --disqus_wrapper_attribute_value=disqus-block_1-0
 ```
 
-### Result
+### Output file
 
 The scraped comments are saved in `data/output.json`. Notice that multiple runs of the scraper will append results to the file. Hence, to start with a new empty file delete `output.json` from the folder. 
 
