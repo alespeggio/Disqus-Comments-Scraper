@@ -10,7 +10,7 @@ This repository provides a very basic scraper that can be used in order to extra
 
 Assuming that Python is installed, all the required packages can be installed with `pip install -r requirements.txt`
 
-## Running the scraper
+## Running the scraper
 
 The scraper can be used in order to scrape comments from Disqus and store them as a formatted json file. The scraper, which uses Selenium to load and scrape comment, can be launched simply with the command `python3 main.py`. 
 
