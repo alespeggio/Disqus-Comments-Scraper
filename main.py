@@ -109,7 +109,7 @@ if __name__ == '__main__':
     parser.add_argument('--url_to_scrape', type=str, default=None,
                     help='The url to scrape data from')
     parser.add_argument('--all_urls_path', type=str, default=None,
-                    help='The path to the tsv file with a list of all the urls we want to scrape comments from')
+                    help='The path to the txt file with a list of all the urls we want to scrape comments from')
     parser.add_argument('--headless', type=str, default="False",
                     help='Whether the scraper should be headless or not')
     parser.add_argument('--scraper_delay', type=int, default=1,
