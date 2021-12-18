@@ -50,7 +50,7 @@ Laslty, the json file contains a line for each page scraped. The json for each l
 
 ```json 
 {
-	"author": "",
+   "author": "",
    "published_date": "",
    "published_date_timestamp": "",
    "comment": "",
